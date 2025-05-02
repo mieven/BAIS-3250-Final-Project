@@ -2,19 +2,21 @@
 
 Project description - describe each file (1 to 2 sentence description describing each file)
 
-This part if for providng info about the priject. 
+This part if for providng info about the project. 
+
+The main point of this project is to investigate whether critically acclaimed and highly rated movies actually perform better at the box office compared to average-rated, widely promoted films. It aims to explore the relationship between digital ratings from platforms like IMDb, Rotten Tomatoes, and Metacritic and a film’s financial success, uncovering whether ratings are reliable indicators or if other factors—like marketing and budget—play a more significant role.
 
 | Title | Link |
 | ------ | ------ |
 | Scraped Website | [Website Scraped][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
+| Kaggle Dataset | [Kaggle Site][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
    [PlDb]: <https://www.movierankings.net/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGh]: <https://www.kaggle.com/datasets/dahvid/movie-budgets-and-revenues/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
