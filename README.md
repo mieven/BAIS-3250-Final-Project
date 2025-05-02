@@ -10,14 +10,6 @@ The main point of this project is to investigate whether critically acclaimed an
 | ------ | ------ |
 | Scraped Website | [Website Scraped][PlDb] |
 | Kaggle Dataset | [Kaggle Site][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
    [PlDb]: <https://www.movierankings.net/README.md>
    [PlGh]: <https://www.kaggle.com/datasets/dahvid/movie-budgets-and-revenues/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
