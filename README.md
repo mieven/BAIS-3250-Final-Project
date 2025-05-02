@@ -6,7 +6,7 @@ This part if for providng info about the priject.
 
 | Plugin | README |
 | ------ | ------ |
-| Scraped Website | [WebsiteScraped/README.md][PlDb] |
+| Scraped Website | [Website Scraped][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
