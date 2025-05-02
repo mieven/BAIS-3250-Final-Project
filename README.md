@@ -4,7 +4,7 @@ Project description - describe each file (1 to 2 sentence description describing
 
 This part if for providng info about the priject. 
 
-| Title | Links |
+| Title | Link |
 | ------ | ------ |
 | Scraped Website | [Website Scraped][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
