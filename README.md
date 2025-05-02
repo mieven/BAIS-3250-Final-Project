@@ -27,3 +27,6 @@ Our Jupyter notebook analyzes the relationship between movie ratings and box off
 
 ### Data Dictionary
 The data dictionary provides a comprehensive view of movies by combining financial data—such as budget, domestic gross, and worldwide earnings—with critic and audience ratings from major platforms like Rotten Tomatoes, IMDb, and Metacritic. It also includes descriptive details such as genre, runtime, studio, director, and awards, offering rich context for analysis. This allows for in-depth exploration of how different factors influence a movie’s critical reception and commercial success.
+
+## Proposed Analysis Questions Folder
+Our analysis questions explore how factors like ratings, genre, budget, studio, and runtime influence a movie’s box office performance. It aims to uncover whether high ratings consistently drive greater revenue, how genre and production decisions impact financial outcomes, and what role critical acclaim or awards play in a film's success. Additionally, the project examines long-term trends in movie characteristics, such as runtime and studio dominance, across different decades.
