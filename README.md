@@ -16,11 +16,14 @@ The main point of this project is to investigate whether critically acclaimed an
    [PlDb]: <https://www.movierankings.net/README.md>
    [PlGh]: <https://www.kaggle.com/datasets/dahvid/movie-budgets-and-revenues/README.md>
 
-## CVS File
+## Data Folder
+The "Data" folder contains a CSV file with detailed movie data, including budgets, box office earnings, and ratings from Rotten Tomatoes, IMDb, and Metacritic. The Jupyter notebook explores how these factors relate to box office performance through data cleaning, visualizations, and regression analysis. A data dictionary outlines all variables, offering a clear reference for analyzing the impact of ratings, genre, and production details on a film's commercial and critical success.
+
+### CVS File
 Our CSV file compiles data on a wide range of movies, including their budgets, release dates, domestic and international box office earnings, and ratings from IMDb, Rotten Tomatoes, and Metacritic and much more. It combines financial metrics with critical and audience scores to allow analysis of how different factors influence box office performance. This dataset supports comparisons between highly rated films and their commercial success across various markets.
 
-## Jupyter Notebook
+### Jupyter Notebook
 Our Jupyter notebook analyzes the relationship between movie ratings and box office performance using data from multiple sources. It includes data cleaning, exploratory visualizations, and regression models to evaluate whether higher ratings predict greater revenue and many other analysis questions. The notebook aims to uncover key factors that influence a film’s commercial success beyond just critical acclaim.
 
-## Data Dictionary
+### Data Dictionary
 The data dictionary provides a comprehensive view of movies by combining financial data—such as budget, domestic gross, and worldwide earnings—with critic and audience ratings from major platforms like Rotten Tomatoes, IMDb, and Metacritic. It also includes descriptive details such as genre, runtime, studio, director, and awards, offering rich context for analysis. This allows for in-depth exploration of how different factors influence a movie’s critical reception and commercial success.
