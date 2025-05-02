@@ -1,1 +1,2 @@
-
+## Proposed Analysis Questions
+Our analysis questions explore how factors like ratings, genre, budget, studio, and runtime influence a movie’s box office performance. It aims to uncover whether high ratings consistently drive greater revenue, how genre and production decisions impact financial outcomes, and what role critical acclaim or awards play in a film's success. Additionally, the project examines long-term trends in movie characteristics, such as runtime and studio dominance, across different decades.
