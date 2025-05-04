@@ -28,6 +28,9 @@ This dataset is our full scraped excel file that contains detailed information o
 ### Jupyter Notebook
 Our Jupyter notebook analyzes the relationship between movie ratings and box office performance using data from multiple sources. It includes data cleaning, exploratory visualizations, and regression models to evaluate whether higher ratings predict greater revenue and many other analysis questions. The notebook aims to uncover key factors that influence a film’s commercial success beyond just critical acclaim.
 
+### Post PP Code
+This Jupyter notebook contains the code used to scrape movie ratings from the chosen website and integrates that data with the Kaggle movie dataset. It streamlines the process of combining critical scores with financial metrics, forming the foundation for deeper analysis. This merged dataset enables more accurate and comprehensive insights into box office performance.
+
 ## Proposed Analysis Questions Folder
 Our analysis questions explore how factors like ratings, genre, budget, studio, and runtime influence a movie’s box office performance. It aims to uncover whether high ratings consistently drive greater revenue, how genre and production decisions impact financial outcomes, and what role critical acclaim or awards play in a film's success. Additionally, the project examines long-term trends in movie characteristics, such as runtime and studio dominance, across different decades.
 
