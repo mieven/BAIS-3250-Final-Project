@@ -21,10 +21,10 @@ The "Data" folder contains a CSV file with detailed movie data, including budget
 The data dictionary provides a comprehensive view of movies by combining financial data—such as budget, domestic gross, and worldwide earnings—with critic and audience ratings from major platforms like Rotten Tomatoes, IMDb, and Metacritic. It also includes descriptive details such as genre, runtime, studio, director, and awards, offering rich context for analysis. This allows for in-depth exploration of how different factors influence a movie’s critical reception and commercial success.
 
 ### Final Movies File
-This dataset is our full scraped excel file that contains detailed information on a wide range of movies, including release dates, budgets, box office earnings (domestic and worldwide), runtimes, and genres. It also includes critical and audience ratings from Rotten Tomatoes, IMDb, and Metacritic, as well as metadata such as studios, directors, and award details. This rich combination of financial and descriptive data allows for in-depth analysis of what factors drive a movie’s commercial and critical success.
+This dataset is our full scraped CSV file that contains detailed information on a wide range of movies, including release dates, budgets, box office earnings (domestic and worldwide), runtimes, and genres. It also includes critical and audience ratings from Rotten Tomatoes, IMDb, and Metacritic, as well as metadata such as studios, directors, and award details. This rich combination of financial and descriptive data allows for in-depth analysis of what factors drive a movie’s commercial and critical success.
 
 
-### Post PP Code
+### Scrapping Code (
 This Jupyter notebook contains the code used to scrape movie ratings from the chosen website and integrates that data with the Kaggle movie dataset. It streamlines the process of combining critical scores with financial metrics, forming the foundation for deeper analysis. This merged dataset enables more accurate and comprehensive insights into box office performance.
 
 
