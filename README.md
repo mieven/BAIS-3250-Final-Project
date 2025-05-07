@@ -34,3 +34,6 @@ Our Jupyter notebook analyzes the relationship between movie ratings and box off
 
 ## Proposed Analysis Questions Folder
 Our analysis questions explore how factors like ratings, genre, budget, studio, and runtime influence a movie’s box office performance. It aims to uncover whether high ratings consistently drive greater revenue, how genre and production decisions impact financial outcomes, and what role critical acclaim or awards play in a film's success. Additionally, the project examines long-term trends in movie characteristics, such as runtime and studio dominance, across different decades.
+
+## Analysis Folder
+Houses a report investigates the relationship between critical acclaim and monetary success in the film industry by analyzing factors like runtime, box office earnings, critic ratings, and the presence of award-winning talent. The report focuses on 3 main analysis quesitons: Has the average runtime of movies changed over different decades and do movies with longer runtimes tend to have higher or lower box office earnings? What is the correlation between movie ratings on platforms like IMDb, Metacritic, and Rotten Tomatoes and box office performance? Does the presence of award-winning actors/directors influence box office or total score?
