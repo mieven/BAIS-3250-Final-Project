@@ -1,1 +1,2 @@
-
+## Final Report 
+This report investigates the relationship between critical acclaim and monetary success in the film industry by analyzing factors like runtime, box office earnings, critic ratings, and the presence of award-winning talent. The report focuses on 3 main analysis quesitons: Has the average runtime of movies changed over different decades and do movies with longer runtimes tend to have higher or lower box office earnings? What is the correlation between movie ratings on platforms like IMDb, Metacritic, and Rotten Tomatoes and box office performance? Does the presence of award-winning actors/directors influence box office or total score?
