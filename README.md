@@ -1,6 +1,6 @@
 # BAIS-3250-Final-Project
 
-This project focuses on the affect different metrics have on movies and their total gross/box office. 
+Behind the Numbers: Do Ratings, Runtimes, and Star Power Predict Box Office Success? 
 
 ## Purpose of Project
 The main point of this project is to investigate whether critically acclaimed and highly rated movies actually perform better at the box office compared to average-rated, widely promoted films. It aims to explore the relationship between digital ratings from platforms like IMDb, Rotten Tomatoes, and Metacritic and a film’s financial success, uncovering whether ratings are reliable indicators or if other factors—like marketing and budget—play a more significant role.
